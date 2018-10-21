@@ -1,0 +1,2 @@
+# ProductsSpiderTestDemo
+使用scrapy+Xpath能够自跳转界面爬取网站的相关信息
